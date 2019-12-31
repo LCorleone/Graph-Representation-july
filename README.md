@@ -1,4 +1,4 @@
-CogDL-july
+Graph-Representation-july
 ======
 The Tensorflow Implementation based on [CogDL](https://github.com/THUDM/cogdl)  
 This is just a simple reimplementation for practice!
